@@ -1,2 +1,2 @@
 # Tsic716esp32
-Simple thermoneter with BT & USB terminal. 
+Simple thermometer with BT & USB terminal. 
